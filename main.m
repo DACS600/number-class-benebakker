@@ -13,7 +13,7 @@
 int main(int argc, const char * argv[]) {
     @autoreleasepool {
 
-        NSLog(@"starting in the main method");
+        NSLog(@"starting up in the main method");
 
         Fraction *aFraction = [[Fraction alloc] init];
 
